@@ -1,4 +1,4 @@
-![mY PERSONAL PRESENTATION](https://res.cloudinary.com/dtlgcfflw/image/upload/v1698029842/225b282a4fae634c0aed7717016a2cba_vwxhsq.jpg) width:500px
+![mY PERSONAL PRESENTATION](https://res.cloudinary.com/dtlgcfflw/image/upload/v1698029842/225b282a4fae634c0aed7717016a2cba_vwxhsq.jpg) 
 
 # HOLA, SOY DANIEL OCHOA ALZATE 👍
 Soy un joven de 18 años, graduado del colegio con la intencion de terminar este bootcamp y aprender bastante. Deportista, con conocimientos en html, css y un poco de javaScript.
@@ -8,6 +8,6 @@ Soy de COLOMBIA 💛💙💗, Soy Estudiante de KODIGO y un joven trabajador. Es
 
 ## LAS TECNOLOGIAS QUE CONOCOSCO 💻
 
-! [html](<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=cuadrado&logo=HTML&logoColor=AZUL&labelColor=NEGRO&color=GRIS">)
+! [html](https://img.shields.io/badge/html-blue?style=plastic&logo=html5&logoColor=white&labelColor=%23ADD8E6&color=%2300BFFF) 
 
 
