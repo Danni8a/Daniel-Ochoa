@@ -6,8 +6,9 @@ Soy un joven de 18 años, graduado del colegio con la intencion de terminar este
 ## Sobre mi 😉 
 Soy de COLOMBIA 💛💙💗, Soy Estudiante de KODIGO y un joven trabajador. Estudie en la cademia de Udemy FRONTED, soy deportista y trabajo en proyectos personales.
 
-## LAS TECNOLOGIAS QUE CONOCOSCO 💻
+## LAS TECNOLOGIAS QUE CONOZCO 💻
 
-! [html](https://img.shields.io/badge/html-blue?style=plastic&logo=html5&logoColor=white&labelColor=%23ADD8E6&color=%2300BFFF) 
+![html](https://img.shields.io/badge/html-blue?style=plastic&logo=html5&logoColor=white&labelColor=%23ADD8E6&color=%2300BFFF) 
+![CSS] (https://img.shields.io/badge/html-grey?style=plastic&logo=css3&logoColor=white&labelColor=%2300FFFF)
 
 
