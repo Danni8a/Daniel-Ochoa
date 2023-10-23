@@ -10,5 +10,6 @@ Soy de COLOMBIA 💛💙💗, Soy Estudiante de KODIGO y un joven trabajador. Es
 
 ![html](https://img.shields.io/badge/html-blue?style=plastic&logo=html5&logoColor=white&labelColor=%23ADD8E6&color=%2300BFFF) 
 ![css](https://img.shields.io/badge/CSS-grey?style=plastic&logo=css3&logoColor=white&labelColor=%2300FFFF)
+![Boostrap](https://img.shields.io/badge/Bootstrap-yellow?style=plastic&logo=bootstrap&logoColor=white&labelColor=yellow&color=%23FCF3CF)
 
 
