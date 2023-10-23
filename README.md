@@ -8,6 +8,6 @@ Soy de COLOMBIA 💛💙💗, Soy Estudiante de KODIGO y un joven trabajador. Es
 
 ## LAS TECNOLOGIAS QUE CONOCOSCO 💻
 
-! [html] (https://img.shields.io/badge/:badgeContent?style=cuadrado&logo=HTML&logoColor=AZUL&color=GRIS)
+! [html](<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=cuadrado&logo=HTML&logoColor=AZUL&labelColor=NEGRO&color=GRIS">)
 
 
