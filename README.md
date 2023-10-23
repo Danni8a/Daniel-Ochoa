@@ -1,4 +1,4 @@
-![mY PERSONAL PRESENTATION](https://res.cloudinary.com/dtlgcfflw/image/upload/v1698029842/225b282a4fae634c0aed7717016a2cba_vwxhsq.jpg)
+![mY PERSONAL PRESENTATION](https://res.cloudinary.com/dtlgcfflw/image/upload/v1698029842/225b282a4fae634c0aed7717016a2cba_vwxhsq.jpg width: 200rem)
 
 # HOLA, SOY DANIEL OCHOA ALZATE 👍
 Soy un joven de 18 años, graduado del colegio con la intencion de terminar este bootcamp y aprender bastante. Deportista, con conocimientos en html, css y un poco de javaScript.
